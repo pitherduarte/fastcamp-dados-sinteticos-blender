@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Blender - backups e arquivos temporários
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+
+# Editores
+.vscode/
+.idea/
+
+# Sistemas operacionais
+Thumbs.db
+.DS_Store
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Cache e renderizações temporárias
+**/cache/
+**/temp/
+**/renders/temporarios/
