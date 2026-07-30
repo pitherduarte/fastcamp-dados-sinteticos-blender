@@ -1,15 +1,15 @@
 # Card 05 — Fundamentos do Blender
 
-**Status:** Em andamento
+**Status:** Concluído
 
-Atividade prática sobre os fundamentos do Blender, incluindo interface, manipulação de objetos, iluminação, câmera e renderização.
+Atividade prática realizada no Blender 2.8 sobre interface, objetos 3D, materiais, iluminação, câmera e renderização.
 
-## Organização
+Durante a prática, foi criada uma cena simples com uma câmera seguindo um caminho e mantendo o foco no objeto principal.
 
-- `aula`: arquivos produzidos durante o acompanhamento do conteúdo;
-- `pratica`: testes e alterações desenvolvidos durante a atividade;
-- `referencias.md`: materiais consultados.
+## Arquivos
 
-Os scripts, cenas, renders e evidências serão adicionados conforme a atividade for realizada.
+- `.blend`: arquivo da cena criada no Blender;
+- `renders`: imagens renderizadas em diferentes momentos da animação;
+- `capturas`: imagens da interface e da configuração da cena.
 
-O relatório será entregue separadamente em PDF pelo Trello e não será armazenado neste repositório.
+O relatório foi entregue separadamente em PDF pelo Trello.
