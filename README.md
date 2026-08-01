@@ -1,19 +1,18 @@
 # Fastcamp — Dados Sintéticos
 
-Repositório das atividades práticas do Fastcamp sobre Blender e geração de dados sintéticos.
+Repositório das atividades práticas do Fastcamp sobre Blender, geração de dados sintéticos e visão computacional.
 
-Atualmente, contém os arquivos do Card 05 — Fundamentos do Blender. Futuramente, também será utilizado nos demais cards que exigirem trabalho prático.
+**Status:** Cards 05, 07, 08 e 09 concluídos.
 
-Status: Concluído
+## Atividades
 
-Atividade prática realizada no Blender 2.8 sobre interface, objetos 3D, materiais, iluminação, câmera e renderização.
+- **Card 05 — Fundamentos do Blender:** interface, objetos 3D, materiais, iluminação, câmera, animação e renderização.
+- **Card 07 — Blender Python:** automação com Python no Blender e desenvolvimento da prática de cristais neon.
+- **Card 08 — Primeiro Dataset Sintético:** geração automatizada de imagens das letras A, B e C com variações de cor, rotação e iluminação.
+- **Card 09 — Objetos Reais:** criação de datasets sintéticos de canecas e treinamento de modelos de classificação no Google Colab.
 
-Durante a prática, foi criada uma cena simples com uma câmera seguindo um caminho e mantendo o foco no objeto principal.
+## Arquivos
 
-Arquivos
-.blend: arquivo da cena criada no Blender;
-renders: imagens renderizadas em diferentes momentos da animação;
-capturas: imagens da interface e da configuração da cena.
-O relatório foi entregue separadamente em PDF pelo Trello.
+O repositório contém cenas `.blend`, scripts `.py`, notebooks, datasets, imagens renderizadas, modelos treinados e resultados de avaliação.
 
-Os relatórios são entregues separadamente em PDF pelo Trello e não são armazenados neste repositório.
+Os relatórios foram entregues separadamente em PDF pelo Trello e não estão armazenados neste repositório.
