@@ -1,0 +1,14 @@
+{
+  "expected_per_category": 20,
+  "counts": {
+    "images": 20,
+    "semantic": 20,
+    "annotations": 20,
+    "mask_caneca": 20,
+    "mask_liquido": 20,
+    "mask_pires": 20,
+    "mask_colher": 20,
+    "mask_acucar": 20
+  },
+  "complete": true
+}

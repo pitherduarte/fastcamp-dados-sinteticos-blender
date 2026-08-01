@@ -1,0 +1,70 @@
+{
+  "image": "imagem_0002.png",
+  "semantic_mask": "semantic_0002.png",
+  "resolution": [
+    512,
+    512
+  ],
+  "objects": [
+    {
+      "class": "caneca",
+      "pass_index": 50,
+      "visible": true,
+      "instance_mask": "caneca_0002.png",
+      "bounding_box": {
+        "x": 157,
+        "y": 175,
+        "width": 189,
+        "height": 162
+      }
+    },
+    {
+      "class": "liquido",
+      "pass_index": 100,
+      "visible": true,
+      "instance_mask": "liquido_0002.png",
+      "bounding_box": {
+        "x": 190,
+        "y": 188,
+        "width": 136,
+        "height": 41
+      }
+    },
+    {
+      "class": "pires",
+      "pass_index": 150,
+      "visible": true,
+      "instance_mask": "pires_0002.png",
+      "bounding_box": {
+        "x": 97,
+        "y": 254,
+        "width": 305,
+        "height": 134
+      }
+    },
+    {
+      "class": "colher",
+      "pass_index": 200,
+      "visible": true,
+      "instance_mask": "colher_0002.png",
+      "bounding_box": {
+        "x": 404,
+        "y": 309,
+        "width": 108,
+        "height": 26
+      }
+    },
+    {
+      "class": "acucar",
+      "pass_index": 250,
+      "visible": true,
+      "instance_mask": "acucar_0002.png",
+      "bounding_box": {
+        "x": 136,
+        "y": 266,
+        "width": 78,
+        "height": 52
+      }
+    }
+  ]
+}
